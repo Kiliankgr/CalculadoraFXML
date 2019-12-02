@@ -1,3 +1,3 @@
-# HolaMundoMVC
+# CalculadoraFXML
 
-Hola mundo en javaFX con MVC
+Calculadora mediante fxml
