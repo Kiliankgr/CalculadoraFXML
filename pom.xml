@@ -8,7 +8,7 @@
 	<properties>
 	  	<maven.compiler.target>11</maven.compiler.target>
 	  	<maven.compiler.source>11</maven.compiler.source>
-	  	<exec.main.Class>dad.javafx.calculadora.Main</exec.main.Class>
+	  	<exec.mainClass>dad.javafx.calculadora.Main</exec.mainClass>
 	  	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
   
